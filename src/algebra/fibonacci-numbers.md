@@ -55,7 +55,7 @@ Notice that this is the only occurrence where two consecutive 1-bits appear.
 
 $$\begin{eqnarray}
 1 &=& 1 &=& F_2 &=& (11)_F \\
-2 &=& 2 &=& F_3 &=& (011)_F \\
+2 &=& 2 &=& F_3 &=& (101)_F \\
 6 &=& 5 + 1 &=& F_5 + F_2 &=& (10011)_F \\
 8 &=& 8 &=& F_6 &=& (000011)_F \\
 9 &=& 8 + 1 &=& F_6 + F_2 &=& (100011)_F \\
